@@ -62,7 +62,3 @@ end
 make_pbj_sandwich(*get_two_slices_from_loaf(demo_loaf, 2),
   "Poodle Byron's Peanut Butter", "Pappy Burgess' Grape Jelly")
 ```
-
-## Conclusion
-
-## Resources
